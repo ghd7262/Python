@@ -1,3 +1,2 @@
 # Python
-Python Notes
-This is my Python notes!
+This is my Python Notes Repository 😍
